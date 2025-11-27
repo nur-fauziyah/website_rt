@@ -1,12 +1,24 @@
 # WEBSITE RT
 
+![Logo](doc/homepage.png)
+
+
 ## Description
 
 This system was developed to support administrative activities at the RT level. It provides an interface for managing resident data, announcements, and user account with responsive design.
 
+![Logo](doc/admin.png)
+
+
 ## ERD (Entity Relationship Diagram)
 
+![Logo](doc/ERD.png)
+
+
 ## Navigation Structure
+
+![Logo](doc/Struktur_Navigasi.png)
+
 
 ## Tools & Technologies
 
